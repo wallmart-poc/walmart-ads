@@ -1,0 +1,13 @@
+{
+  "identifier": "walmart-ads",
+  "title": "Ad Service",
+  "blueprint": "service",
+  "properties": {
+    "lifecycle": "production",
+    "criticality": "low",
+    "slack_channel": "#catalog-discovery"
+  },
+  "relations": {
+    "depends_on": []
+  }
+}

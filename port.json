@@ -1,0 +1,17 @@
+{
+  "identifier": "walmart-ads",
+  "title": "Ad Service",
+  "blueprint": "service",
+  "properties": {
+    "lifecycle": "production",
+    "criticality": "low",
+    "slack_channel": "#catalog-discovery",
+    "type": "grpc",
+    "tier": "backend",
+    "language": "Java",
+    "region": ["us-east-1"]
+  },
+  "relations": {
+    "depends_on": []
+  }
+}

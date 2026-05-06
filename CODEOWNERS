@@ -1,0 +1,4 @@
+# Contextual advertisement gRPC service.
+# Selects ads based on product categories, so it lives with the
+# discovery/merchandising surfaces that drive product visibility.
+*   @wallmart-poc/catalog-discovery
